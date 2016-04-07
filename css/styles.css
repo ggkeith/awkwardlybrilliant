@@ -44,7 +44,7 @@ table {
 	border-spacing: 0;
 }
 
-/* Custom Styling */
+/************************Custom Styles******************************** */
 
 body {
     padding-top: 70px;
@@ -54,11 +54,22 @@ body {
 
 #navbar {
     font-family: 'Bree Serif', serif;
-    font-size: 18px;
+    font-size: 1.1em;
 }
 
 #title-name {
-    font-family: Cabin, sans-serif;
+    font-family: 'Covered By Your Grace', cursive;
     font-weight: bold;
-    font-size: 4em;
+    font-size: 6em;
+}
+
+#tagline {
+  padding-top: 1em;
+}
+
+#title-well {
+  background-color: rgba(255,255,255,0.4);
+  width: 25%;
+  height: 10%;
+  border-radius: 3%;
 }
