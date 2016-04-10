@@ -57,10 +57,14 @@ body {
     font-size: 1.1em;
 }
 
-#title-name {
+#title-name-1, #title-name-2 {
     font-family: 'Covered By Your Grace', cursive;
     font-weight: bold;
     font-size: 6em;
+}
+
+#title-name-2 {
+  padding-left: 1.5em;
 }
 
 #tagline {
